@@ -1,3 +1,4 @@
+![your_cool_intro (6)](https://user-images.githubusercontent.com/80933048/130671957-e5a28c58-f541-46b1-a1fd-9c424fbc0620.gif)
 <img src="https://lanet.click/wp-content/uploads/2020/02/drugiye_sposoby_reklamy_mob_prilozheniy_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C-1.svg" width="500" height="500"></img>
 
 
