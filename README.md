@@ -5,8 +5,8 @@
 <b>I'm 18 Year Old Student From India Pursuing My IT B.E From SIES Graduation School Of Technology<br>It's Always Fun For Me To Build And Explore New Things.I Like To Talk With Peoples.Like To Take Challenges blah blah...</b>
 <h2>🖥About Me</h2>
 - 🎯 I Wanted To Become a Software Engineer <br>
-- 🧐 Like To Solve The Real World Problems <br>
-- 👨‍💻 Learning New Things Rapidly <br>
+- 🧐 I Like To Solve The Real World Problems <br>
+- 👨‍💻 I'm Learning New Things Rapidly <br>
 - 🕵️‍♂️ I’m currently learning Java and Android Studio Code <br>
 - ☺ I Like Mathematics, Reading Articles&Blogs <br>
 - 😇 I'm Intrested In Working In Startup <br><br><br>
