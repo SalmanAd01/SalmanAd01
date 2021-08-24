@@ -1,7 +1,7 @@
 <img src="https://media.discordapp.net/attachments/871235025100759064/879802244046946464/avento.gif?width=1020&height=590"></img>
 <br>
 
-<h1>Hey,I'm Salman Adhikari👋</h1>
+<h1>Hey,I'm Salman Adhikari<img src="https://media.discordapp.net/attachments/871235025100759064/879803729593913405/wave-hello.gif?width=45&height=35"></img></h1>
 <b>I'm 18 Year Old Student From India Pursuing My IT B.E From SIES Graduation School Of Technology<br>It's Always Fun For Me To Build And Explore New Things.I Like To Talk With Peoples.Like To Take Challenges blah blah...</b>
 <h2>🖥About Me</h2>
 - 🎯 I Wanted To Become a Software Engineer <br>
