@@ -1,8 +1,7 @@
-![your_cool_intro (6)](https://user-images.githubusercontent.com/80933048/130671957-e5a28c58-f541-46b1-a1fd-9c424fbc0620.gif)
 <img src="https://lanet.click/wp-content/uploads/2020/02/drugiye_sposoby_reklamy_mob_prilozheniy_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C-1.svg" width="500" height="500"></img>
 
 
-![your_cool_intro](https://user-images.githubusercontent.com/80933048/130671512-19db8880-2acf-4562-88fa-e436e4f09cb0.gif)
+![your_cool_intro (6)](https://user-images.githubusercontent.com/80933048/130671957-e5a28c58-f541-46b1-a1fd-9c424fbc0620.gif)
 
 <b>I'm 18 Year Old Student From India Pursuing My IT B.E From SIES Graduation School Of Technology<br>It's Always Fun For Me To Build And Explore New Things.I Like To Talk With Peoples.Like To Take Challenges blah blah...</b>
 <h2>🖥About Me</h2>
