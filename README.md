@@ -35,3 +35,7 @@
 <img src="http://definelabs.com/wp-content/uploads/2016/06/MongoDB-Logo.svg_.png" alt="mongodb" width="60" height="50"/>
 <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="MySQL" width="60" height="50"/>
 <p>
+  
+ 
+  
+  <img src="https://media.discordapp.net/attachments/871235025100759064/879903612430594149/5b5019cdc5fb19868f587982a39c08f0.gif?width=411&height=390" width=30%><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/a7826a67086875.5b2d123e9f06e.gif?width=411&height=390" width=65%>
