@@ -56,3 +56,6 @@
 </br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+    
+    
+    <img src="https://pic.onlinewebfonts.com/svg/img_458082.png"/>
