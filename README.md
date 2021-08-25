@@ -26,7 +26,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="javascript" width="40" height="50"/>
-<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" alt="css" width="40" height="50"/>
+<img src="https://flask-training-courses.uk/images/flask-logo.png" alt="css" width="40" height="50"/>
 <p>
 <p align="center">
 <b><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/database-2417232-2036559.png" srcset="https://cdn.iconscout.com/icon/premium/png-512-thumb/database-2417232-2036559.png 2x" alt="Database Colored Outline Icon" width="25">DataBases<br>
