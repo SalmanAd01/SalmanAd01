@@ -51,6 +51,5 @@
 
 </br>
 </br>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YourDad07&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
