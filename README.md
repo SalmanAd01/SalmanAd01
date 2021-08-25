@@ -35,3 +35,10 @@
 <img src="http://definelabs.com/wp-content/uploads/2016/06/MongoDB-Logo.svg_.png" alt="mongodb" width="60" height="50"/>
 <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="MySQL" width="60" height="50"/>
 <p>
+  <p align="center">
+<b><img src="https://www.vippng.com/png/full/358-3589817_noun-project-tools-icon-943586-cc-software-tool.png" width="15">Tools<br>
+<p>
+<p align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="60" height="50"/>
+<img src="https://brandeps.com/logo-download/H/Heroku-logo-vector-01.svg" alt="Heroku" width="60" height="50"/>
+<p>
