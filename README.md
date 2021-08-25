@@ -34,7 +34,7 @@
 <p align="center">
 <img src="http://definelabs.com/wp-content/uploads/2016/06/MongoDB-Logo.svg_.png" alt="mongodb" width="60" height="50"/>
 <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="MySQL" width="60" height="50"/>
-<p>
+</p>
   <p align="center">
 <b>🛠Tools<br>
 <p>
@@ -43,6 +43,16 @@
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="60" height="50"/>
 <img src="https://brandeps.com/logo-download/H/Heroku-logo-vector-01.svg" alt="Heroku" width="60" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit" width="45" height="45"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"/> 
+<p>
+    <p align="center">
+<b><img src="https://c.tenor.com/psHan5Lv0IUAAAAC/emoji-tongue-out.gif" width="20"></img>Others<br>
+<p>
+<p align="center">
+  <a href="https://www.codechef.com/users/yourdad01"><img src="https://scontent.fbom3-1.fna.fbcdn.net/v/t1.6435-9/121168893_104031501480491_8122899697181660800_n.png?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=3DwvmKRr1n8AX9ol66i&_nc_ht=scontent.fbom3-1.fna&oh=405e014b0e16b6dbdb9e95cb4fc9fae1&oe=614B3346" alt="CodeChef" width="40" height="40"/></a>
+<img src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent-1536x1090.png" alt="VSCode" width="60" height="50"/>
+<img src="https://static.dezeen.com/uploads/2012/06/dezeen_twitter-bird.gif" alt="Heroku" width="60" height="50"/>
+<img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/1200x630wa.png?w=1500&quality=82&strip=all&ssl=1" alt="Replit" width="45" height="45"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"/> 
 <p>
   <br>
