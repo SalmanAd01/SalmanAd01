@@ -14,7 +14,7 @@
 <b>👨‍💻Programing Languages<br>
 </p>
 <p align="center">
-<img src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/java-512.png" alt="java" width="40" height="40"/> 
+<img src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/java-512.png" alt="java" width="50" height="50"/> 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="65" height="65"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="50"/>
