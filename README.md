@@ -36,7 +36,7 @@
 <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="MySQL" width="60" height="50"/>
 <p>
   <p align="center">
-<b><img src="https://www.vippng.com/png/full/358-3589817_noun-project-tools-icon-943586-cc-software-tool.png" width="15">Tools<br>
+<b>🛠Tools<br>
 <p>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="40" height="40"/>
