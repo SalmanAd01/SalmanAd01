@@ -9,7 +9,7 @@
 - 👨‍💻 I'm Learning New Things Rapidly <br>
 - 🕵️‍♂️ I’m currently learning Java and Android Studio Code <br>
 - ☺ I Like Mathematics, Reading Articles&Blogs <br>
-- 😇 I'm Intrested In Working In Startup <br><br><br>
+- 😇 I'm Intrested In Working In Startup <br><br>
 <p align="center">
 <b>👨‍💻Programing Languages<br>
 </p>
@@ -45,8 +45,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit" width="45" height="45"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"/> 
 <p>
-  <br><br><br>
-   <p align="center">
+  <br>
+  <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
   <div align="center">
 
