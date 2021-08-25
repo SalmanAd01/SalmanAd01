@@ -26,7 +26,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="javascript" width="40" height="50"/>
-<img src="https://flask-training-courses.uk/images/flask-logo.png" alt="css" width="40" height="50"/>
+<img src="https://camo.githubusercontent.com/cb2324a4c0e1910089f481d56e1f887d6e96114101987dfbb6ef6f9df1e0bf08/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f636f6f5f666c61736b2f706f636f6f5f666c61736b2d69636f6e2e737667" alt="css" width="40" height="50"/>
 <p>
 <p align="center">
 <b><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/database-2417232-2036559.png" srcset="https://cdn.iconscout.com/icon/premium/png-512-thumb/database-2417232-2036559.png 2x" alt="Database Colored Outline Icon" width="25">DataBases<br>
