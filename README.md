@@ -54,15 +54,14 @@
 <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="VSCode" width="60" height="50"/>
 </a>
  <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" alt="VSCode" width="60" height="50"/>
-
+<a href="https://api.whatsapp.com/send?phone=+919021618891">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YourDad07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+    </a>
 <p>
   <br>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
   <div align="center">
-<a href="https://api.whatsapp.com/send?phone=+919021618891">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YourDad07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
-    </a>
 </br>
 </br>
 <i>Random dev joke for you!</i><br>
