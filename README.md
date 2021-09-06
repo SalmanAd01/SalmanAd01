@@ -53,9 +53,6 @@
 <a href="https://discordapp.com/users/661653400307499011">
 <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="VSCode" width="60" height="50"/>
 </a>
-<img src="https://brandeps.com/logo-download/H/Heroku-logo-vector-01.svg" alt="Heroku" width="60" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit" width="45" height="45"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"/> 
 <p>
   <br>
   <p align="center">
