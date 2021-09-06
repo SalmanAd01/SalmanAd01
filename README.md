@@ -58,6 +58,10 @@
   <a href="https://www.linkedin.com/in/salman-adhikari-a938911bb">
 <img src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="VSCode" width="40" height="40"/>
 </a>
+  </a>
+  <a href="https://twitter.com/AdhikariSalman?t=RxCEcOAXyNev9pp2-HWnxQ&s=09">
+<img src="https://www.europanostra.org/wp-content/uploads/2017/09/2017-09-Twitter-logo.png" alt="VSCode" width="40" height="40"/>
+</a>
 </p>
 <br>
   <p align="center">
