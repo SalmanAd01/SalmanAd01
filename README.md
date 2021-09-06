@@ -45,19 +45,18 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit" width="45" height="45"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"/> 
 <p>
-  <br>
-  <p align="center">
+<p align="center">
 <b>🧐Socials<br>
 <p>
 <p align="center">
 <a href="https://discordapp.com/users/661653400307499011">
 <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="VSCode" width="60" height="50"/>
 </a>
-  <a href="https://api.whatsapp.com/send?phone=+919021618891">
- <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" alt="VSCode" width="60" height="50"/>
-  </a>
-  </p>
-   <br>
+<a href="https://api.whatsapp.com/send?phone=+919021618891">
+<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" alt="VSCode" width="60" height="50"/>
+</a>
+</p>
+<br>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
   <div align="center">
