@@ -55,12 +55,12 @@
 <a href="https://discordapp.com/users/661653400307499011">
 <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="VSCode" width="50" height="50"/>
 </a>
+    </a>
+  <a href="https://twitter.com/AdhikariSalman?t=RxCEcOAXyNev9pp2-HWnxQ&s=09">
+<img src="https://www.europanostra.org/wp-content/uploads/2017/09/2017-09-Twitter-logo.png" alt="VSCode" width="45" height="45"/>
+</a>
   <a href="https://www.linkedin.com/in/salman-adhikari-a938911bb">
 <img src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="VSCode" width="40" height="40"/>
-</a>
-  </a>
-  <a href="https://twitter.com/AdhikariSalman?t=RxCEcOAXyNev9pp2-HWnxQ&s=09">
-<img src="https://www.europanostra.org/wp-content/uploads/2017/09/2017-09-Twitter-logo.png" alt="VSCode" width="40" height="40"/>
 </a>
 </p>
 <br>
