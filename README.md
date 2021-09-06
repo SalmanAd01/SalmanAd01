@@ -46,7 +46,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"/> 
 <p>
 <p align="center">
-<b>🧐Socials<br>
+<b><img src="https://media.discordapp.net/attachments/871235025100759064/879803729593913405/wave-hello.gif?width=15&height=15"></img>Socials<br>
 <p>
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=+919021618891">
