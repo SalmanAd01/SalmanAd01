@@ -49,11 +49,11 @@
 <b>🧐Socials<br>
 <p>
 <p align="center">
-<a href="https://discordapp.com/users/661653400307499011">
-<img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="VSCode" width="40" height="40"/>
+  <a href="https://api.whatsapp.com/send?phone=+919021618891">
+<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" alt="VSCode" width="40" height="40"/>
 </a>
-<a href="https://api.whatsapp.com/send?phone=+919021618891">
-<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" alt="VSCode" width="60" height="50"/>
+<a href="https://discordapp.com/users/661653400307499011">
+<img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="VSCode" width="50" height="50"/>
 </a>
   <a href="https://www.linkedin.com/in/salman-adhikari-a938911bb">
 <img src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="VSCode" width="60" height="50"/>
