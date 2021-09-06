@@ -56,7 +56,7 @@
 <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" alt="VSCode" width="60" height="50"/>
 </a>
   <a href="https://api.whatsapp.com/send?phone=+919021618891">
-<img src="https://www.pngfind.com/pngs/m/53-534062_linkedin-for-lawyers-property-icon-circle-hd-png.png" alt="VSCode" width="60" height="50"/>
+<img src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="VSCode" width="60" height="50"/>
 </a>
 </p>
 <br>
