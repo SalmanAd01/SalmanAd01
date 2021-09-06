@@ -56,7 +56,7 @@
 <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="VSCode" width="50" height="50"/>
 </a>
   <a href="https://www.linkedin.com/in/salman-adhikari-a938911bb">
-<img src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="VSCode" width="60" height="50"/>
+<img src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="VSCode" width="40" height="40"/>
 </a>
 </p>
 <br>
