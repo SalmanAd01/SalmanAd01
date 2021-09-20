@@ -7,7 +7,7 @@
 - 🎯 I Wanted To Become a Software Engineer <br>
 - 🧐 I Like To Solve The Real World Problems <br>
 - 👨‍💻 I'm Learning New Things Rapidly <br>
-- 🕵️‍♂️ I’m currently learning Java and Android Studio Code <br>
+- 🕵️‍♂️ I’m currently learning Java and Android Development<br>
 - ☺ I Like Mathematics, Reading Articles&Blogs <br>
 - 😇 I'm Intrested In Working In Startup <br><br>
 <p align="center">
