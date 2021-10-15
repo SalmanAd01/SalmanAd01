@@ -35,6 +35,7 @@
 <p>
 <p align="center">
 <img src="http://definelabs.com/wp-content/uploads/2016/06/MongoDB-Logo.svg_.png" alt="mongodb" width="60" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="MySQL" width="60" height="50"/>
 <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="MySQL" width="60" height="50"/>
 </p>
   <p align="center">
