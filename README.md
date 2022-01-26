@@ -29,8 +29,8 @@
 <img src="img/css.svg" alt="css" width="40" height="50" style="padding-bottom:10px;"/>
 <img src="img/node.svg" alt="javascript" width="50" height="60" style="padding-bottom:10px;"/>
 <img src="img/go-original.svg" alt="Go" width="50" height="50" style="padding-bottom:10px;"/>
-<img src="img/flask.svg" alt="css" width="40" height="50" style="padding-bottom:10px;"/>
-<img src="img/bootstrap.svg" alt="javascript" width="40" height="50" style="padding-bottom:5px;"/>
+<img src="img/flask.svg" alt="flask" width="40" height="50" style="padding-bottom:10px;"/>
+<img src="img/bootstrap.svg" alt="bootstrap" width="40" height="50" style="padding-bottom:5px;"/>
 
 <p>
 <p align="center">
@@ -38,7 +38,7 @@
 <p>
 <p align="center">
 <img src="img/mongodb.png" alt="mongodb" width="50" height="50" style="padding-bottom:5px;"/>
-    <img src="img/postgresql.svg" alt="MySQL" width="60" height="50" style="padding-bottom:10px;"/>
+    <img src="img/postgresql.svg" alt="postgresql" width="60" height="50" style="padding-bottom:10px;"/>
 <img src="img/mysql.svg" alt="MySQL" width="60" height="50" style="padding-bottom:5px;"/>
 </p>
   <p align="center">
@@ -48,8 +48,9 @@
   <img src="img/git.svg" alt="Git" width="40" height="40" style="padding-bottom:5px;"/>
 <img src="img/replit.svg" alt="Replit" width="45" height="45" style="padding-bottom:5px;"/> 
 <img src="img/heroku.svg" alt="Heroku" width="55" height="55" style="padding-bottom:5px;"/>
+<img src="img/docker.png" alt="Docker" width="65" height="65" style="padding-bottom:5px;"/>
 <img src="img/vscode.svg" alt="VSCode" width="55" height="55" style="padding-bottom:5px;"/>
-<img src="img/postman.png" alt="blender" width="50" height="50" style="padding-left:10px;"/> 
+<img src="img/postman.png" alt="postman" width="50" height="50" style="padding-left:10px;"/> 
 <img src="img/blender.svg" alt="blender" width="45" height="45" style="padding-top:5px;"/> 
 <p>
 <p align="center">
