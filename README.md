@@ -69,7 +69,7 @@
 </p>
 <br>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="50px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
   <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourDad07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
