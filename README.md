@@ -17,7 +17,8 @@
 <img src="img/java.png" alt="java" width="45" height="45" style="padding-right:3px;"/> 
 <img src="img/c++.png" alt="c++" width="50" height="50" style="padding-bottom:5px;"/> 
 <img src="img/go.png" alt="Go" width="55" height="55" style="padding-bottom:10px;"/>
-<img src="img/python.png" alt="python" width="65" height="65" style="padding-bottom:10px;"/>
+<img src="img/Typescript.png" alt="Typescript" width="55" height="55" style="padding-bottom:15px;padding-left:5px;"/>
+<img src="img/python.png" alt="python" width="55" height="55" style="padding-bottom:10px;"/>
 <img src="img/c.svg" alt="c" width="55" height="55" style="padding-bottom:5px;"/>
 <img src="img/js.svg" alt="javascript" width="50" height="50"/>
 </p><br>
@@ -26,11 +27,12 @@
 <p>
 <p align="center">
 <img src="img/html.svg" alt="html" width="40" height="50" style="padding-bottom:5px;"/>
-<img src="img/css.svg" alt="css" width="40" height="50" style="padding-bottom:10px;"/>
-<img src="img/node.svg" alt="javascript" width="50" height="60" style="padding-bottom:10px;"/>
-<img src="img/go-original.svg" alt="Go" width="50" height="50" style="padding-bottom:10px;"/>
-<img src="img/flask.svg" alt="flask" width="40" height="50" style="padding-bottom:10px;"/>
-<img src="img/bootstrap.svg" alt="bootstrap" width="40" height="50" style="padding-bottom:5px;"/>
+<img src="img/css.svg" alt="css" width="40" height="50" style="padding-bottom:20px;"/>
+<img src="img/React.png" alt="javascript" width="45" height="45" style="padding-bottom:35px;"/>
+<img src="img/node.svg" alt="Node" width="50" height="60" style="padding-bottom:40px;"/>
+<img src="img/go.png" alt="Go" width="40" height="40" style="padding-bottom:35px;"/>
+<img src="img/flask.svg" alt="flask" width="40" height="50" style="padding-bottom:15px;"/>
+<img src="img/bootstrap.svg" alt="bootstrap" width="40" height="50" style="padding-bottom:8px;"/>
 
 <p>
 <p align="center">
@@ -45,12 +47,13 @@
 <b>🛠Tools<br>
 <p>
 <p align="center">
-  <img src="img/git.svg" alt="Git" width="40" height="40" style="padding-bottom:5px;"/>
-<img src="img/replit.svg" alt="Replit" width="45" height="45" style="padding-bottom:5px;"/> 
-<img src="img/heroku.svg" alt="Heroku" width="55" height="55" style="padding-bottom:5px;"/>
-<img src="img/vscode.svg" alt="VSCode" width="55" height="55" style="padding-bottom:5px;"/>
-<img src="img/postman.png" alt="postman" width="50" height="50" style="padding-left:10px;"/> 
-<img src="img/blender.svg" alt="blender" width="45" height="45" style="padding-top:5px;"/> 
+  <img src="img/git.svg" alt="Git" width="40" height="40" style="padding-bottom:2px;"/>
+<img src="img/githubaction.png" alt="Github Action" width="45" height="45" style="padding-bottom:10px;"/> 
+<img src="img/heroku.svg" alt="Heroku" width="55" height="55" style="padding-bottom:12px;"/>
+<img src="img/docker.png" alt="Docker" width="65" height="65" style="padding-bottom:20px;"/>
+<img src="img/firebase.png" alt="firebase" width="50" height="50" style="padding-bottom:18px;"/> 
+<img src="img/vscode.svg" alt="VSCode" width="40" height="40" style="padding-bottom:15px;"/>
+<img src="img/postman.png" alt="postman" width="40" height="40" style="padding-top:15px;padding-left:10px;"/> 
 <p>
 <p align="center">
 <b><img src="gif/wave-hello.gif" width="20"></img>Social<br>
