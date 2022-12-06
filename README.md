@@ -1,6 +1,6 @@
-<img src='gif/avento.gif'>
+<img src='https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328710/GithubProfile/avento_mz8ci4.gif'>
 
-<h1>Hey,I'm Salman Adhikari<img src="gif/wave-hello.gif"></h1>
+<h1>Hey,I'm Salman Adhikari<img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328708/GithubProfile/wave-hello_g97tdr.gif"></h1>
 
 <b>I'm 18 Year Old Student From India Pursuing My IT B.E From SIES Graduation School Of Technology <br> It's Always Fun For Me To Build And Explore New Things.I Like To Talk With Peoples.Like To Take Challenges blah
     blah...
@@ -19,13 +19,13 @@
 </p>
 
 <p align="center">
-    <img src="img/java.png" alt="java" width="45" height="45" style="padding-right:3px;">
-    <img src="img/c++.png" alt="c++" width="50" height="50" style="padding-bottom:5px;">
-    <img src="img/go.png" alt="Go" width="55" height="55" style="padding-bottom:10px;">
-    <img src="img/Typescript.png" alt="Typescript" width="55" height="55" style="padding-bottom:15px;padding-left:5px;">
-    <img src="img/python.png" alt="python" width="55" height="55" style="padding-bottom:10px;">
-    <img src="img/c.svg" alt="c" width="55" height="55" style="padding-bottom:5px;">
-    <img src="img/js.svg" alt="javascript" width="50" height="50">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328575/GithubProfile/img/java_yuexnz.png" alt="java" width="45" height="45" style="padding-right:3px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328572/GithubProfile/img/c_paebaj.png" alt="c++" width="50" height="50" style="padding-bottom:5px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328574/GithubProfile/img/go_xj7wof.png" alt="Go" width="55" height="55" style="padding-bottom:10px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328577/GithubProfile/img/Typescript_haqmvx.png" alt="Typescript" width="55" height="55" style="padding-bottom:15px;padding-left:5px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328577/GithubProfile/img/python_pooywo.png" alt="python" width="55" height="55" style="padding-bottom:10px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328572/GithubProfile/img/c_blslvr.svg" alt="c" width="55" height="55" style="padding-bottom:5px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328574/GithubProfile/img/js_vno7zo.svg" alt="javascript" width="50" height="50">
 </p><br>
 
 <p align="center">
@@ -33,23 +33,23 @@
 </p>
 
 <p align="center">
-    <img src="img/html.svg" alt="html" width="40" height="50" style="padding-bottom:5px;">
-    <img src="img/css.svg" alt="css" width="40" height="50" style="padding-bottom:20px;">
-    <img src="img/React.png" alt="javascript" width="45" height="45" style="padding-bottom:35px;">
-    <img src="img/node.svg" alt="Node" width="50" height="60" style="padding-bottom:40px;">
-    <img src="img/go.png" alt="Go" width="40" height="40" style="padding-bottom:35px;" />
-    <img src="img/flask.svg" alt="flask" width="40" height="50" style="padding-bottom:15px;">
-    <img src="img/bootstrap.svg" alt="bootstrap" width="40" height="50" style="padding-bottom:8px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328575/GithubProfile/img/html_m24scy.svg" alt="html" width="40" height="50" style="padding-bottom:5px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328572/GithubProfile/img/css_unwd5r.svg" alt="css" width="40" height="50" style="padding-bottom:20px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328577/GithubProfile/img/React_vsca7q.png" alt="javascript" width="45" height="45" style="padding-bottom:35px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328576/GithubProfile/img/node_t425ha.svg" alt="Node" width="50" height="60" style="padding-bottom:40px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328574/GithubProfile/img/go_xj7wof.png" alt="Go" width="40" height="40" style="padding-bottom:35px;" />
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328573/GithubProfile/img/flask_aexcuj.svg" alt="flask" width="40" height="50" style="padding-bottom:15px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328572/GithubProfile/img/bootstrap_ofomp6.svg" alt="bootstrap" width="40" height="50" style="padding-bottom:8px;">
 </p>
 
 <p align="center">
-    <b><img src="img/database.png" alt="Database Colored Outline Icon" width="25">DataBases<br></b>
+    <b><img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328572/GithubProfile/img/database_p5aot8.png" alt="Database Colored Outline Icon" width="25">DataBases<br></b>
 </p>
 
 <p align="center">
-    <img src="img/mongodb.png" alt="mongodb" width="50" height="50" style="padding-bottom:5px;">
-    <img src="img/postgresql.svg" alt="postgresql" width="60" height="50" style="padding-bottom:10px;">
-    <img src="img/mysql.svg" alt="MySQL" width="60" height="50" style="padding-bottom:5px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328576/GithubProfile/img/mongodb_nudqw4.png" alt="mongodb" width="50" height="50" style="padding-bottom:5px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328576/GithubProfile/img/postgresql_p9fgv2.svg" alt="postgresql" width="60" height="50" style="padding-bottom:10px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328576/GithubProfile/img/mysql_uar6yp.svg" alt="MySQL" width="60" height="50" style="padding-bottom:5px;">
 </p>
 
 <p align="center">
@@ -57,28 +57,29 @@
 </p>
 
 <p align="center">
-    <img src="img/git.svg" alt="Git" width="40" height="40" style="padding-bottom:2px;">
-    <img src="img/githubaction.png" alt="Github Action" width="45" height="45" style="padding-bottom:10px;">
-    <img src="img/heroku.svg" alt="Heroku" width="55" height="55" style="padding-bottom:12px;">
-    <img src="img/docker.png" alt="Docker" width="65" height="65" style="padding-bottom:20px;">
-    <img src="img/firebase.png" alt="firebase" width="50" height="50" style="padding-bottom:18px;">
-    <img src="img/vscode.svg" alt="VSCode" width="40" height="40" style="padding-bottom:15px;">
-    <img src="img/postman.png" alt="postman" width="40" height="40" style="padding-top:15px;padding-left:10px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328574/GithubProfile/img/git_gh0hva.svg" alt="Git" width="40" height="40" style="padding-bottom:2px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328574/GithubProfile/img/githubaction_n5inky.png" alt="Github Action" width="45" height="45" style="padding-bottom:10px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328574/GithubProfile/img/heroku_mn4pyc.svg" alt="Heroku" width="55" height="55" style="padding-bottom:12px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328573/GithubProfile/img/docker_tlltlc.png" alt="Docker" width="75" height="75" style="padding-bottom:20px;">
+      <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670329169/GithubProfile/img/download-removebg-preview_7_tkuqzw.png" alt="digitalocean" width="60" height="60" style="padding-bottom:28px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328573/GithubProfile/img/firebase_a6xplw.png" alt="firebase" width="50" height="50" style="padding-bottom:18px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328577/GithubProfile/img/vscode_omeb6b.svg" alt="VSCode" width="40" height="40" style="padding-bottom:15px;">
+    <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328577/GithubProfile/img/postman_mfmra0.png" alt="postman" width="40" height="40" style="padding-top:15px;padding-left:10px;">
 </p>
 
 <p align="center">
-    <b><img src="gif/wave-hello.gif" width="20"></img>Social<br></b>
+    <b><img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328708/GithubProfile/wave-hello_g97tdr.gif" width="20"></img>Social<br></b>
 </p>
 
 <p align="center">
     <a href="https://discordapp.com/users/661653400307499011">
-        <img src="img/discord.png" alt="VSCode" width="50" height="50">
+        <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328573/GithubProfile/img/discord_txu0y0.png" alt="VSCode" width="50" height="50">
     </a>
     <a href="https://twitter.com/AdhikariSalman?t=RxCEcOAXyNev9pp2-HWnxQ&s=09">
-        <img src="img/twitter.png" alt="VSCode" width="45" height="45" />
+        <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328577/GithubProfile/img/twitter_pfnntr.png" alt="VSCode" width="45" height="45" />
     </a>
     <a href="https://www.linkedin.com/in/salman-adhikari-a938911bb">
-        <img src="img/linkdin.png" alt="VSCode" width="40" height="40" />
+        <img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328576/GithubProfile/img/linkdin_hrszfc.png" alt="VSCode" width="40" height="40" />
     </a>
 </p>
 
