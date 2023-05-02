@@ -2,8 +2,7 @@
 
 <h1>Hey,I'm Salman Adhikari<img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328708/GithubProfile/wave-hello_g97tdr.gif"></h1>
 
-<b>I'm 18 Year Old Student From India Pursuing My IT B.E From SIES Graduation School Of Technology <br> It's Always Fun For Me To Build And Explore New Things.I Like To Talk With Peoples.Like To Take Challenges blah
-    blah...
+<b>I am a 20-year-old student from India currently pursuing my B.E in IT from SIES Graduation School of Technology. I am passionate about building and exploring new things, and I enjoy engaging in conversations with people. Challenges excite me, and I am always up for them.
 </b>
 
 <h2>🖥About Me</h2>
