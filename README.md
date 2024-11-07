@@ -2,16 +2,8 @@
 
 <h1>Hey,I'm Salman Adhikari<img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328708/GithubProfile/wave-hello_g97tdr.gif"></h1>
 
-<b>I am a 20-year-old student from India currently pursuing my B.E in IT from SIES Graduation School of Technology. I am passionate about building and exploring new things, and I enjoy engaging in conversations with people. Challenges excite me, and I am always up for them.
+<b>I am a Software Developer and passionate about building and exploring new things, and I enjoy engaging in conversations with people. Challenges excite me, and I am always up for them.
 </b>
-
-<h2>🖥About Me</h2>
-- 🎯 I Wanted To Become a Software Engineer <br>
-- 🧐 I Like To Solve The Real World Problems <br>
-- 👨‍💻 I'm Learning New Things Rapidly <br>
-- 🕵️‍♂️ I’m currently learning about Machine Learning<br>
-- ☺ I Like Mathematics, Reading Articles&Blogs <br>
-- 😇 I'm Intrested In Working In Startup <br><br>
 
 <p align="center">
     <b>👨‍💻Programing Languages<br>
